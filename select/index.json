@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Typhoon",
+  "base_artist": "嚩ᴴᴬᴷᵁ",
+  "createdAt": "2026-03-08T08:18:41.383548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Typhoon Wulf",
+      "artist": "Xavier Wulf",
+      "has_synced": false,
+      "path": "select/01_Typhoon_Wulf_Xavier_Wulf.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Typhoon Wulf",
+      "artist": "Xavier Wulf",
+      "has_synced": false,
+      "path": "select/02_Typhoon_Wulf_Xavier_Wulf.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Wanna Behave (feat. Typhoon) [Radio Edit]",
+      "artist": "Kuenta I Tambu",
+      "has_synced": false,
+      "path": "select/03_Don't_Wanna_Behave_(feat._Typhoon)_[Radio_Edit]_Kuenta_I_Tambu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Typhoon",
+      "artist": "Tomahawk",
+      "has_synced": true,
+      "path": "select/04_Typhoon_Tomahawk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Typhoon",
+      "artist": "Young the Giant",
+      "has_synced": false,
+      "path": "select/05_Typhoon_Young_the_Giant.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In the Event of Typhoon",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/06_In_the_Event_of_Typhoon_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Shot (Typhoon) - Album Edit",
+      "artist": "Julian Calor feat. Channii",
+      "has_synced": true,
+      "path": "select/07_One_Shot_(Typhoon)_-_Album_Edit_Julian_Calor_feat._Channii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Shot (Typhoon) - Album Edit",
+      "artist": "Julian Calor/Channii",
+      "has_synced": true,
+      "path": "select/08_One_Shot_(Typhoon)_-_Album_Edit_Julian_Calor_Channii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wereld Van Verschil (feat. Typhoon)",
+      "artist": "BLØF",
+      "has_synced": true,
+      "path": "select/09_Wereld_Van_Verschil_(feat._Typhoon)_BLØF.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boom Boom Typhoon !",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/10_Boom_Boom_Typhoon_!_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Typhoon",
+      "artist": "Falling Up",
+      "has_synced": true,
+      "path": "select/11_Typhoon_Falling_Up.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Typhoon Voyage (Into the Void)",
+      "artist": "Psyborg Corp",
+      "has_synced": false,
+      "path": "select/12_Typhoon_Voyage_(Into_the_Void)_Psyborg_Corp.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Typhoon Generation",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/13_Typhoon_Generation_ARASHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Typhoon (feat. ピーナッツくん)",
+      "artist": "嚩ᴴᴬᴷᵁ",
+      "has_synced": false,
+      "path": "select/pl_01_Typhoon_(feat._ピーナッツくん)_嚩HAKU.txt"
+    }
+  ]
+}
